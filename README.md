@@ -1,6 +1,6 @@
 # Milestone Project: 🍔👁 Food Vision Big™
 
-In the previous notebook ([transfer learning part 3: scaling up]) we built Food Vision mini: a transfer learning model which beat the original results of the [Food101 paper](https://data.vision.ee.ethz.ch/cvl/datasets_extra/food-101/) with only 10% of the data.
+In the previous notebook ([transfer learning part 3: scaling up](https://github.com/Casyvina/Food-vision/blob/main/transfer_learning_in_tensorflow_part_3_scaling_up.ipynb)) we built Food Vision mini: a transfer learning model which beat the original results of the [Food101 paper](https://data.vision.ee.ethz.ch/cvl/datasets_extra/food-101/) with only 10% of the data.
 
 But you might be wondering, what would happen if we used all the data?
 
@@ -40,7 +40,7 @@ But more on these later.
 * Batching & preparing datasets for modelling (**making our datasets run fast**)
 * Creating modelling callbacks
 * Setting up **mixed precision training**
-* Building a feature extraction model (see [transfer learning part 1: feature extraction](https://github.com/mrdbourke/tensorflow-deep-learning/blob/main/04_transfer_learning_in_tensorflow_part_1_feature_extraction.ipynb))
-* Fine-tuning the feature extraction model (see [transfer learning part 2: fine-tuning](https://github.com/mrdbourke/tensorflow-deep-learning/blob/main/05_transfer_learning_in_tensorflow_part_2_fine_tuning.ipynb))
+* Building a feature extraction model (see [transfer learning part 1: feature extraction](https://github.com/Casyvina/Food-vision/blob/main/transfer_learning_in_tensorflow_part_1_feature_extraction.ipynb))
+* Fine-tuning the feature extraction model (see [transfer learning part 2: fine-tuning](https://github.com/Casyvina/Food-vision/blob/main/transfer_learning_in_tensorflow_part_2_fine_tuning.ipynb))
 * Viewing training results on TensorBoard
 
