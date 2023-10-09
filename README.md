@@ -1,5 +1,7 @@
 # Milestone Project: 🍔👁 Food Vision Big™
 
+![logo](food-vision.png)
+
 In the previous notebook ([transfer learning part 3: scaling up](https://github.com/Casyvina/Food-vision/blob/main/transfer_learning_in_tensorflow_part_3_scaling_up.ipynb)) we built Food Vision mini: a transfer learning model which beat the original results of the [Food101 paper](https://data.vision.ee.ethz.ch/cvl/datasets_extra/food-101/) with only 10% of the data.
 
 But you might be wondering, what would happen if we used all the data?
